@@ -97,7 +97,7 @@ html.theme-dark .force-theme.theme-light {
   --text-link: rgb(var(--link-colour));
   --background-light: #2f363d;
   --background: #24292e;
-  --background-alt: #2a3036;
+  --background-alt: #24292e;
   --background-dark: #1d2125;
   --guilds-background: var(--background);
   --white: #ffffff;
